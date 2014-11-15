@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Siwicadilly
+tagline:             ''
+description:         'A few thoughts for now'
+url:                 http://Siwicadilly.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              John Siwicki
+  url:               https://twitter.com/siwicadilly
+  email:             johnsiwicki@gmail.com
+
+# Custom vars
+version:             1.0.0

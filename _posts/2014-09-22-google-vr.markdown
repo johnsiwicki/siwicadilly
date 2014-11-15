@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Google Cardboard - VR"
+date:   2014-09-22 21:45:40
+categories: 
+---
+
+Virtual reality was never a space that I got really excited about. The Oculus rift did seem cool but I never felt the need to actually try it out. At this year's developer conference Google gave away slabs of cardboard that they dubbed Google Cardboard. 
+
+The Cardboard is a simple and inexpensive way to experience VR with your smart phone. You follow a set of instructions to cut pieces of cardboard into this.
+
+[Dodocase](http://www.dodocase.com/products/google-cardboard-vr-goggle-toolkit) is the first to make a premade kit for the lazy tinkerer like myself. For 25 bucks you receive the precut cardboard, lens, and NFC card all ready to go.
+
+The build process was pretty smooth as we were able to get things all setup in under 30 minutes. 
+
+My [One Plus One](http://oneplus.net/) was just too large to fit inside Cardboard so we had to use my wife's Galaxy S4, and that just barely fit into the smartphone slot. 
+
+Google has one app and some ["Chrome experiments"](http://vr.chromeexperiments.com/#/desktop) that work on the Cardboard. The NFC chip on our cardboard will load the app as soon as you place the phone down on top of the NFC card. 
+
+The app comes loaded with about seven different demos to try out: 
+
+Google Earth, Tour Guide, Youtube, Exhibit, Photo Sphere, Street Vue and Windy Day. 
+
+
+Google Earth is just like a flying tour of Google Earh. The graphics on this were just terrible and started to make me feel a little sick. I didn't spend a lot of time wiht this one. 
+
+Tour Guide is a walking tour guide of Versailles. You can explore and are given some audio snippets that explain what you are looking at. This was one of the more impressive use cases that I have found. The experience was really immerseve and was just cool to walk around and tour. Another one that could of used a graphics overhaul and that would of really brought this out to another level. 
+
+Exhibit and Street View follow on the tour guide example. 
+
+Exhibit lets you view some artifacts and Street View allows you to take a "drive" through Paris on a summer day.
+
+Windy Day is an animated short that follows the story of a mouse trying to get his hat back on a windy day. 
+
+Google also has made a few more experiments for Chrome in your smartphone's web browser. 
+
+
+There is a coin collection game, a roller coaster, a stereoscope toy, "visit bears in Russia", or a virtual helicopter ride and a few music visualizations. 
+
+These experiments show also the power of just using Chrome for your apps. Some of these feel very sophisticated and showcase what just developing for the browser can allow some detailed stuff. From, the example code it looks like these are all written in Javascript and use [three.js](http://threejs.org/) to handle the graphics. 
+
+Grabbing one of these kits is a no-brainer. It is a fun little project that will give you a few hours of enjoyment and fun to just play around with some of these demos. Just a word of caution, I had to take multiple breaks as spending too long inside the Cardboard did make me feel a bit ill. 
+
+Outside of the obvious use cases for games, it will be interesting to see if people use this for Hangouts (Google's chat/video app), watching sports or maybe even certain movies being watched in this manner. 
+
+This is an intriguing area that we are going in. [Samsung](https://www.samsung.com/global/microsite/gearvr/gearvr_features.html)and Facebook both making large moves in this space. There are a lot of possibilities and I already have an app idea I am tossing around! 
+

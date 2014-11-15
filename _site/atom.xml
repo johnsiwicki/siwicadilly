@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Siwicadilly</title>
+ <link href="http://Siwicadilly.com/atom.xml" rel="self"/>
+ <link href="http://Siwicadilly.com/"/>
+ <updated>2014-11-14T21:57:22-05:00</updated>
+ <id>http://Siwicadilly.com</id>
+ <author>
+   <name>John Siwicki</name>
+   <email>johnsiwicki@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Google Cardboard - VR</title>
+   <link href="http://Siwicadilly.com/2014/09/22/google-vr/"/>
+   <updated>2014-09-22T17:45:40-04:00</updated>
+   <id>http://Siwicadilly.com/2014/09/22/google-vr</id>
+   <content type="html">&lt;p&gt;Virtual reality was never a space that I got really excited about. The Oculus rift did seem cool but I never felt the need to actually try it out. At this year&amp;#39;s developer conference [link] Google gave away slabs of cardboard that they dubbed Google Cardboard. &lt;/p&gt;
+
+&lt;p&gt;The Cardboard is a simple and inexpensive way to experience VR with your smart phone. You follow a set of instructions to cut pieces of cardboard into this.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dodocase.com/products/google-cardboard-vr-goggle-toolkit&quot;&gt;Dodocase&lt;/a&gt; is the first to make a premade kit for the lazy tinkerer like myself. For 25 bucks you receive the precut cardboard, lens, and NFC card all ready to go.&lt;/p&gt;
+
+&lt;p&gt;The build process was pretty smooth as we were able to get things all setup in under 30 minutes. &lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&quot;http://oneplus.net/&quot;&gt;One Plus One&lt;/a&gt; was just too large to fit inside Cardboard so we had to use my wife&amp;#39;s Galaxy S4, and that just barely fit into the smartphone slot. &lt;/p&gt;
+
+&lt;p&gt;Google has one app and some &lt;a href=&quot;http://vr.chromeexperiments.com/#/desktop&quot;&gt;&amp;quot;Chrome experiments&amp;quot;&lt;/a&gt; that work on the Cardboard. The NFC chip on our cardboard will load the app as soon as you place the phone down on top of the NFC card. &lt;/p&gt;
+
+&lt;p&gt;The app comes loaded with about seven different demos to try out: &lt;/p&gt;
+
+&lt;p&gt;Google Earth, Tour Guide, Youtube, Exhibit, Photo Sphere, Street Vue and Windy Day. &lt;/p&gt;
+
+&lt;p&gt;Google Earth is just like a flying tour of Google Earh. The graphics on this were just terrible and started to make me feel a little sick. I didn&amp;#39;t spend a lot of time wiht this one. &lt;/p&gt;
+
+&lt;p&gt;Tour Guide is a walking tour guide of Versailles. You can explore and are given some audio snippets that explain what you are looking at. This was one of the more impressive use cases that I have found. The experience was really immerseve and was just cool to walk around and tour. Another one that could of used a graphics overhaul and that would of really brought this out to another level. &lt;/p&gt;
+
+&lt;p&gt;Exhibit and Street View follow on the tour guide example. &lt;/p&gt;
+
+&lt;p&gt;Exhibit lets you view some artifacts and Street View allows you to take a &amp;quot;drive&amp;quot; through Paris on a summer day.&lt;/p&gt;
+
+&lt;p&gt;Windy Day is an animated short that follows the story of a mouse trying to get his hat back on a windy day. &lt;/p&gt;
+
+&lt;p&gt;Google also has made a few more experiments for Chrome in your smartphone&amp;#39;s web browser. &lt;/p&gt;
+
+&lt;p&gt;There is a coin collection game, a roller coaster, a stereoscope toy, &amp;quot;visit bears in Russia&amp;quot;, or a virtual helicopter ride and a few music visualizations. &lt;/p&gt;
+
+&lt;p&gt;These experiments show also the power of just using Chrome for your apps. Some of these feel very sophisticated and showcase what just developing for the browser can allow some detailed stuff. From, the example code it looks like these are all written in Javascript and use &lt;a href=&quot;http://threejs.org/&quot;&gt;three.js&lt;/a&gt; to handle the graphics. &lt;/p&gt;
+
+&lt;p&gt;Grabbing one of these kits is a no-brainer. It is a fun little project that will give you a few hours of enjoyment and fun to just play around with some of these demos. Just a word of caution, I had to take multiple breaks as spending too long inside the Cardboard did make me feel a bit ill. &lt;/p&gt;
+
+&lt;p&gt;Outside of the obvious use cases for games, it will be interesting to see if people use this for Hangouts (Google&amp;#39;s chat/video app), watching sports or maybe even certain movies being watched in this manner. &lt;/p&gt;
+
+&lt;p&gt;This is an intriguing area that we are going in. &lt;a href=&quot;https://www.samsung.com/global/microsite/gearvr/gearvr_features.html&quot;&gt;Samsung&lt;/a&gt;and Facebook both making large moves in this space. There are a lot of possibilities and I already have an app idea I am tossing around! &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I Never Got A Blog Live Till Tonight!</title>
+   <link href="http://Siwicadilly.com/2014/09/09/first-blog/"/>
+   <updated>2014-09-09T17:45:40-04:00</updated>
+   <id>http://Siwicadilly.com/2014/09/09/first-blog</id>
+   <content type="html">&lt;p&gt;I am a person who will always have a screen near him. My passions are all over the place. I find researching everything from video games, politics to healthy eating and design. I love to learn new things every day and use these new experiences.&lt;/p&gt;
+
+&lt;p&gt;I have wanted to start blogging again for the longest time. Writing was always a passion of mine. I worried about my audience and if anyone would want to hear what I had to say or would want to follow me. I worried about everything except just making great content. &lt;/p&gt;
+
+&lt;p&gt;When, I was in college, I built up an indie music blog from nothing to a site that had over thousands of visitors each month. I was able to bring on a small group of writers and we were proud of the content we were making and the product that was out there. I loved writing and exploring that side of creative work. &lt;/p&gt;
+
+&lt;p&gt;But, something happened after blogging about music for over five years, I started to get burnt out. I didn&amp;#39;t delegate a lot of the work out to some of the other writers on the staff. After all of that it stopped being fun. My work got sloppy and I lost confidence in myself and my abilities to do the work.  &lt;/p&gt;
+
+&lt;p&gt;I would still on occasion write but would never do anything with the content. It would just sit in a folder on Google Drive. &lt;/p&gt;
+
+&lt;p&gt;So, I was on one of my long weekend walks and listening to podcasts and it hit me that it was time to experiment. This one interviewer kept bringing up failures and people who just &amp;quot;buy books and don&amp;#39;t take action.&amp;quot;  I was becoming one of those people. It was all talk and no action. &lt;/p&gt;
+
+&lt;p&gt;That hit me hard. It was a time to change and start shipping and experimenting. I have notebooks full of &amp;quot;ideas&amp;quot; and never take much action on them. I always dream of things that I could build.&lt;/p&gt;
+
+&lt;p&gt;Last week I decided that I would make this a priority.  &lt;/p&gt;
+
+&lt;p&gt;In the past week, I have signed up for an intro to node course, and I shipped one client project. I have also finally got a productivity workflow that seems to have worked for me. &lt;/p&gt;
+
+&lt;p&gt;Each day, I want to start giving myself little projects to work on and keep my mind active and try to think of fun things to make. &lt;/p&gt;
+
+&lt;p&gt;My goal will be to get a system and a schedule for posting but for now who knows. Over the next week I am working on moving all my sites to Digital Ocean, finishing up a small little mobile app for a client and writing another post. &lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
